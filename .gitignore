@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data
+data/
+*.csv
+
+# Models
+*.pt
+*.h5
+*.ckpt
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
